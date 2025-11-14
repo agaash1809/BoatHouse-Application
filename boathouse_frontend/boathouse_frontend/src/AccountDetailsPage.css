@@ -1,0 +1,40 @@
+
+   .account-details-container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    margin-left: 500px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .details-card {
+    max-width: 500px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .detail {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  span {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .balance-positive {
+    color: #2ecc71;
+  }
+  
+  .balance-negative {
+    color: #e74c3c;
+  }
+  

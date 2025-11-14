@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "Email": " agash@gmail.com",
+      "Password": " ag",
+      "Name": " Agash",
+      "id": 1
+    },
+    {
+      "Email": "ashwin@gmail.com",
+      "Password": "ashwin@123",
+      "Name": "ashwin",
+      "id": 2
+    },
+    {
+      "Email": "dharanish@gmail.com",
+      "Password": "dharanish",
+      "Name": "dharanish",
+      "id": 3
+    },
+    {
+      "Email": "agash1809@gmail.com",
+      "Password": "12345687",
+      "Name": "agash",
+      "id": 4
+    },
+    {
+      "Email": "sdfgh@gmail.com",
+      "Password": "qwertyuiop",
+      "Name": "agash",
+      "id": 5
+    },
+    {
+      "Email": "aashwin@gmail.com",
+      "Password": "1234567890",
+      "Name": "ASHWIN",
+      "id": 6
+    }
+  ]
+}

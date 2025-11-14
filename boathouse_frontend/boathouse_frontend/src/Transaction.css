@@ -1,0 +1,39 @@
+
+
+.balance-container {
+    margin-bottom: 20px;
+  }
+  
+  .transaction-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    margin-bottom: 10px;
+    padding: 5px;
+  }
+  
+  button {
+    padding: 8px;
+    margin-top: 5px;
+    cursor: pointer;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  .transbody{
+    width: 600px;
+    height: 600;
+  }
+  

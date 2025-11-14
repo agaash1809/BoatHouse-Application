@@ -1,0 +1,73 @@
+
+
+.bigrow
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-left: 150px;
+    /* background: linear-gradient(rgb(223, 206, 173),rgb(229, 98, 10)); */
+    text-align: center;
+}
+
+
+#goda
+{
+    color: blueviolet;
+    cursor: pointer;
+}
+
+.column2
+{
+    /* background-color:white(1,1,1,0.9); */
+    background-color: white;
+    border: 2px solid black;
+    /* background: linear-gradient(rgb(223, 206, 173),rgb(229, 98, 10)); */
+    margin-right: 100px;    
+    margin-bottom: 100px;
+    text-align: center;
+}
+#logico
+{
+    /* background-image: url("https://www.shutterstock.com/image-vector/illustration-login-form-pop-on-260nw-601018952.jpg"); */
+    background-color: black;
+    margin-top: 10px;
+}
+.inside
+{
+    margin-left: 20px;
+}
+.column1
+{
+    margin-right: 50px;
+    margin-left: 200px;
+}
+#head
+{
+  display: flex;
+  justify-content: center;
+  color: black;
+}
+.logoof{
+    margin-left: 50px;
+    background-repeat: no-repeat;
+    height: 130px;
+    /* background-image: url("C:\Users\hp5cd\OneDrive\Desktop\HIRESMART logo.png"); */
+}
+.rs :hover{
+  text-decoration: underline;
+  color: blue;
+  font-size: medium;
+}
+.rs{
+  text-align: center;
+
+}
+.sbody{
+
+  height: 1000px;
+  text-align: center;
+  background-image: url('C:\Users\agaas\Downloads\1171279.jpg');
+  background-size: cover;
+}
