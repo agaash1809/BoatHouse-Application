@@ -7,7 +7,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Nhome from './Nhome';
 import AboutPage from './About.jsx';
 import TransactionPage from './TransactionHistory.js';
-import HomeLoanPage from './Loan.js';
 import TransPage from './Transaction.js';
 import AccountDetailsPage from './AccountDetailsPage.js';
 import ContactPage from './Contact.js';
@@ -38,10 +37,8 @@ function App() {
         <Route path='/login' element={<LoginForm/>} />
         <Route path='/signup' element={<RegisterForm />} />
         <Route path='/home' element={<Home/>}/>
-        <Route path='/Nhome' element={<Nhome/>}/>
         <Route path='/Aboutpage' element={<AboutPage/>}></Route>
         <Route path='/Transaction' element={<TransPage/>}></Route>
-        <Route path='/Loans' element={<HomeLoanPage/>}></Route>
         <Route path='/TransactionHistory' element={<TransactionPage/>}></Route>
         <Route path='/AccountDetailsPage' element={<AccountDetailsPage/>}></Route>
         <Route path='/ContactPage' element={<ContactPage/>}></Route>
